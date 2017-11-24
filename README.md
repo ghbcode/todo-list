@@ -15,6 +15,6 @@ Notes and to do lists
     * [Strengths and weaknesses of ML algorithms](https://elitedatascience.com/machine-learning-algorithms)
     * [Analytics Vidhya](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
 
-**Apparently LaTex or MathJax doesn't work**
+**Apparently LaTex or MathJax doesn't work inside github files unless they are a .ipynb type**
 * \\[ \frac{1}{n^{2}} \\]
 * $$ x^2 $$

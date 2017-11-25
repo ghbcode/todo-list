@@ -19,3 +19,8 @@ Notes and to do lists
 **Apparently LaTex or MathJax doesn't work inside github files unless they are a .ipynb type**
 * \\[ \frac{1}{n^{2}} \\]
 * $$ x^2 $$
+
+
+**Job Search**
+* https://elitedatascience.com/resume-tips
+* https://elitedatascience.com/machine-learning-interview-questions-answers
